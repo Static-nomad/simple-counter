@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.mainCounter div{
+    display: inline-block;
+    font-size: 70px;
+    line-height: 70px;
+    background: #101010;   
+    color: white;
+    margin: 10px;
+    padding: 30px;
+}
+
+.mainCounter {
+    text-align: center;
+    background: black;
+  
+}
